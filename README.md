@@ -1,70 +1,62 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Amalkrishna</span></h1>
-<h3 align="center">💡 Embedded Systems Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">💡 Embedded Systems Developer | IoT Builder | Hardware Hacker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+Embedded+Systems;Microcontrollers+%7C+IoT+%7C+C+%7C+Python;Always+learning+and+building!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Programming+the+real+world...;Microcontrollers+%7C+IoT+%7C+Electronics+%7C+Code" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working as an **Embedded Systems Developer**
-- 🌱 Learning **C, Python, RTOS, and hardware interfacing**
-- 👯 Open to collaborate on **IoT, Microcontroller, and Embedded C projects**
-- 🤝 I’m looking for help with **Raspberry Pi GPIO handling & real-time applications**
-- 💬 Ask me about **Arduino, ESP32**
-- 📫 Reach me at **amalkrishna34@gmail.com**
+- 🔭 Working as an **Embedded Systems Developer**
+- 🧠 Learning **RTOS, C/C++, Python & ARM Cortex Programming**
+- 🔗 Specialized in **IoT, firmware, and microcontroller projects**
+- 💬 Ask me about **Arduino IDE, sensor integration, real-time debugging**
+- 📧 Reach me: **amalkrishna34@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Embedded Systems World
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/239590/screenshots/5621385/schematic.gif" alt="Embedded GIF" width="400"/>
 </p>
 
-### 🔌 Embedded & Hardware Platforms
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=esphome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
-</p>
+### 🧩 Platforms I Work With:
 
-### 🌐 Web & UI
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+| Microcontrollers | Communication Protocols | Tools & IDEs |
+|------------------|--------------------------|--------------|
+| Arduino, ESP32, STM32, Raspberry Pi Pico | UART, I2C, SPI, CAN, BLE | PlatformIO, Arduino IDE, STM32CubeIDE |
 
-### 🎨 Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/ArduinoIDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlatformIO-003B3B?style=for-the-badge&logo=platformio&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5699/5699397.png" width="100" alt="Embedded Icon"/>
 </p>
 
 ---
 
-## 🔧 Embedded Systems Expertise
+## ⚙️ Hardware Expertise
 
-- ✔️ Microcontroller programming
-- ✔️ Communication protocols: SPI, I2C, UART, CAN
-- ✔️ Sensor and actuator interfacing (IR, Ultrasonic, Servo, etc.)
-- ✔️ Real-Time Operating Systems (RTOS)
-- ✔️ Low-level debugging & memory management
-- ✔️ IoT Prototyping with ESP32/RPi
-- ✔️ Circuit design and PCB basics (KiCad, Fritzing)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212563489-6fa2709c-e7ee-4145-9a06-6b8d62337841.png" alt="Hardware Block Diagram" width="600"/>
+</p>
+
+- ✅ Circuit Design & Prototyping (Breadboard → PCB)
+- ✅ Sensor & Actuator Integration
+- ✅ Power Supply and GPIO Management
+- ✅ Real-Time Signal Processing
+- ✅ PWM, ADC/DAC, Timers, Interrupts
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Tools, Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,python,js,react,figma,photoshop,vscode,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amalkrishna&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
@@ -75,9 +67,9 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:amalkrishna34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Optional: Add LinkedIn, GitHub, or Portfolio if available -->
+  <!-- Add LinkedIn or GitHub URLs here if you like -->
 </p>
 
 ---

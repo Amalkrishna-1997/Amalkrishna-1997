@@ -54,13 +54,13 @@
 
 ## 🔧 Embedded Systems Expertise
 
-- ✔️ Microcontroller programming (AVR, ARM, STM32)
+- ✔️ Microcontroller programming
 - ✔️ Communication protocols: SPI, I2C, UART, CAN
 - ✔️ Sensor and actuator interfacing (IR, Ultrasonic, Servo, etc.)
 - ✔️ Real-Time Operating Systems (RTOS)
 - ✔️ Low-level debugging & memory management
 - ✔️ IoT Prototyping with ESP32/RPi
-- ✔️ Circuit design and PCB basics (KiCad, Fritzing)
+- ✔️ Circuit design and PCB basics
 
 ---
 
